@@ -1,0 +1,34 @@
+:root {
+    font-size: 18.5px;
+}
+
+.openbox{
+
+	background-color: lightblue;
+    font-size: 30px;
+    text-align: center;
+border:solid black;
+border-width: 2px ;
+margin: 5px;
+
+}
+.openbox1
+{
+	font-family: cursive;
+	font-size: 20px;
+}
+.openbox2{
+	padding: 4px;
+}
+
+p{
+	font-family: times new roman;
+}
+}
+body{
+	background-color: lightgray;
+}
+h4{
+	color: red;
+	margin:0px;
+}
